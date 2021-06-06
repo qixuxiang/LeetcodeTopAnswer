@@ -59,12 +59,18 @@
 
 #### 16.合并两个排序的链表
 
-题目：[sword2offer-16](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&&tqId=11169&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-16/solution_01.cpp])
+题目：[sword2offer-16](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&&tqId=11169&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-16)
 
 #### 36.两个链表的第一个公共结点
 
-题目：[sword2offer-36](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&&tqId=11189&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[两个链表的第一个公共结点](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-36/solution_01.cpp])
+题目：[sword2offer-36](https://www.nowcoder.com/practice/6ab1d9a29e88450685099d45c9e31e46?tpId=13&&tqId=11189&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[两个链表的第一个公共结点](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-36)
 
 #### 38.二叉树的深度
 
-题目：[sword2offer-38](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&&tqId=11191&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-38/solution_01.cpp])
+题目：[sword2offer-38](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&&tqId=11191&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-38)
+
+###分类
+
+#### 删除链表的节点
+
+题目：[removenode](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/classify/LinkList/removenode)
