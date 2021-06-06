@@ -19,6 +19,9 @@
 
 题目：[leetcode-4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)    答案：[寻找两个正序数组的中位数](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/leetcode/leetcode-4)
 
+#### 21.合并两个有序链表
+题目：[leetcode-21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)    答案：[合并两个有序链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/leetcode/leetcode-21)
+
 #### 50.pow-x-n
 
 题目：[leetcode-50](https://leetcode-cn.com/problems/powx-n/)    答案：[pow-x-n](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/leetcode/leetcode-50)
@@ -39,8 +42,20 @@
 
 题目：[leetcode-101](https://leetcode-cn.com/problems/symmetric-tree/)   答案：[对称二叉树](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/leetcode/leetcode-101)
 
+#### 141.环形链表
+
+题目：[leetcode-141](https://leetcode-cn.com/problems/linked-list-cycle/)   答案：[对称二叉树](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/leetcode/leetcode-141)
+
 #### 206.反转链表
 
 题目：[leetcode-206](https://leetcode-cn.com/problems/reverse-linked-list/)   答案：[反转链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/leetcode/leetcode-206)
 
 ### 剑指offer
+
+#### 16.合并两个排序的链表
+
+题目：[sword2offer-16](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&&tqId=11169&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-16])
+
+#### 38.二叉树的深度
+
+题目：[sword2offer-38](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&&tqId=11191&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-38])
