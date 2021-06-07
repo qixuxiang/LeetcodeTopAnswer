@@ -57,9 +57,17 @@
 
 ### 剑指offer
 
+#### 14.链表中倒数第k个结点
+
+题目：[sword2offer-14](https://www.nowcoder.com/practice/886370fe658f41b498d40fb34ae76ff9?tpId=13&&tqId=11167&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[链表中倒数第k个结点](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-14)
+
 #### 16.合并两个排序的链表
 
 题目：[sword2offer-16](https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&&tqId=11169&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-16)
+
+#### 18.二叉树的镜像
+
+题目：[sword2offer-18](https://www.nowcoder.com/practice/a9d0ecbacef9410ca97463e4a5c83be7?tpId=13&&tqId=11171&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[二叉树的镜像](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-18)
 
 #### 36.两个链表的第一个公共结点
 
@@ -67,7 +75,7 @@
 
 #### 38.二叉树的深度
 
-题目：[sword2offer-38](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&&tqId=11191&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[合并两个排序的链表](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-38)
+题目：[sword2offer-38](https://www.nowcoder.com/practice/435fb86331474282a3499955f0a41e8b?tpId=13&&tqId=11191&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking/)   答案：[二叉树的深度](https://github.com/qixuxiang/LeetcodeTopAnswer/tree/main/sword2offer/sword2offer-38)
 
 #### 39.平衡二叉树
 
